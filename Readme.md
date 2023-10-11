@@ -1,4 +1,6 @@
-# Muter: Machine Unlearning for Adversarial Traning Models
+# Muter: Machine Unlearning on Adversarially Trained Models
+
+Code for the ICCV'23 paper [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.html).
 
 ## Dependencies
 
